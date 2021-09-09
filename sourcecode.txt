@@ -1,0 +1,658 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta  http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>News | IEEE Amrita IEEE Amrita</title>
+
+<link rel="stylesheet" href="https://edu.ieee.org/in-ase/wp-content/themes/sections/css/styles.css" type="text/css" media="screen" />
+<!--[if IE]>
+	<script type="text/javascript" language="javascript" src="https://edu.ieee.org/in-ase/wp-content/themes/sections/scripts/jquery.min.js"></script>
+	<script type="text/javascript" language="javascript" src="https://edu.ieee.org/in-ase/wp-content/themes/sections/scripts/ie.js"></script>
+<![endif]-->
+<!--[if IE 7]>
+	<link type="text/css" rel="stylesheet" href="https://edu.ieee.org/in-ase/wp-content/themes/sections/css/ie7.css" media="screen,tv" />
+<![endif]-->
+<!--[if lte IE 6]>
+	<link type="text/css" rel="stylesheet" href="https://edu.ieee.org/in-ase/wp-content/themes/sections/css/ie6.css" media="screen,tv" />
+<![endif]-->
+<link rel="pingback" href="" />
+<script type="text/javascript" language="javascript" src="https://edu.ieee.org/in-ase/wp-content/themes/sections/scripts/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://edu.ieee.org/in-ase/wp-content/themes/sections/scripts/global.js"></script>
+
+<script src="https://s3-us-west-2.amazonaws.com/ieeeshutpages/gdpr/settings.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+ window.cookieconsent.initialise(json)
+});
+</script>
+
+
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://edu.ieee.org/in-ase/news/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="News | IEEE Amrita" />
+	<meta property="og:description" content="Bangalore Section Annual General Body Meeting REGISTER ALL OF YOU !   https://in.explara.com/e/ieee-bangalore-agm The AGM is scheduled to be held on Sunday, 7th January 2018 at Shangri-La Hotel, No.56-6B, Palace Road, Bengaluru, Karnataka 560052, at 10:00 AM. 2017 being the 40th year of IEEE Bangalore Section, we have had a major function. IEEE Bangalore Section conducts [&hellip;]" />
+	<meta property="og:url" content="https://edu.ieee.org/in-ase/news/" />
+	<meta property="og:site_name" content="IEEE Amrita" />
+	<meta property="article:publisher" content="https://www.facebook.com/ieeeamritasb/" />
+	<meta property="article:modified_time" content="2017-12-23T08:33:14+00:00" />
+	<meta property="og:image" content="https://edu.ieee.org/in-ase/files/2017/10/WhatsApp-Image-2017-10-01-at-10.35.00-150x150.jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://edu.ieee.org/in-ase/#organization","name":"IEEE Amrita Bangalore Student Branch","url":"https://edu.ieee.org/in-ase/","sameAs":["https://www.facebook.com/ieeeamritasb/","https://www.instagram.com/ieee_amrita/","https://www.linkedin.com/company/ieee-student-branch-ase-b/"],"logo":{"@type":"ImageObject","@id":"https://edu.ieee.org/in-ase/#logo","inLanguage":"en-GB","url":"https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/07/IEEE-logo.jpg","width":1100,"height":1100,"caption":"IEEE Amrita Bangalore Student Branch"},"image":{"@id":"https://edu.ieee.org/in-ase/#logo"}},{"@type":"WebSite","@id":"https://edu.ieee.org/in-ase/#website","url":"https://edu.ieee.org/in-ase/","name":"IEEE Amrita Student Branch","description":"Student Branch","publisher":{"@id":"https://edu.ieee.org/in-ase/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://edu.ieee.org/in-ase/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"ImageObject","@id":"https://edu.ieee.org/in-ase/news/#primaryimage","inLanguage":"en-GB","url":"https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2017/10/WhatsApp-Image-2017-10-01-at-10.35.00.jpeg","width":723,"height":1024},{"@type":["WebPage","CollectionPage"],"@id":"https://edu.ieee.org/in-ase/news/#webpage","url":"https://edu.ieee.org/in-ase/news/","name":"News | IEEE Amrita","isPartOf":{"@id":"https://edu.ieee.org/in-ase/#website"},"primaryImageOfPage":{"@id":"https://edu.ieee.org/in-ase/news/#primaryimage"},"datePublished":"2015-08-21T04:11:45+00:00","dateModified":"2017-12-23T08:33:14+00:00","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://edu.ieee.org/in-ase/news/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="IEEE Amrita &raquo; Feed" href="https://edu.ieee.org/in-ase/feed/" />
+<link rel="alternate" type="application/rss+xml" title="IEEE Amrita &raquo; Comments Feed" href="https://edu.ieee.org/in-ase/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/edu.ieee.org\/in-ase\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://edu.ieee.org/in-ase/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://edu.ieee.org/in-ase/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://edu.ieee.org/in-ase/wp-content/plugins/tablepress/css/default.min.css?ver=1.12' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-main-css'  href='https://edu.ieee.org/in-ase/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=3.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-custom-css'  href='https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/masterslider/custom.css?ver=1.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://edu.ieee.org/in-ase/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://edu.ieee.org/in-ase/wp-json/" /><script>var ms_grabbing_curosr='https://edu.ieee.org/in-ase/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='https://edu.ieee.org/in-ase/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.2.14 - Responsive Touch Image Slider" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/07/cropped-android-chrome-512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/07/cropped-android-chrome-512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/07/cropped-android-chrome-512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/07/cropped-android-chrome-512x512-270x270.png" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body>
+<!-- Global IEEE Header -->
+<div id="global-hd-container">
+	<div id="global-hd">
+		<ul>
+		<li><a href="http://www.ieee.org/" target="_blank">IEEE.org</a></li>
+		<li><a href="http://ieeexplore.ieee.org/" target="_blank">IEEE <em>Xplore</em> Digital Library</a></li>
+		<li><a href="http://standards.ieee.org/" target="_blank">IEEE Standards Association</a></li>
+		<li><a href="http://spectrum.ieee.org/" target="_blank">IEEE Spectrum Online</a></li>
+		<li class="last"><a href="http://www.ieee.org/web/services/general/sitemap.html" target="_blank">More IEEE Sites</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- Page Container -->
+<div id="wedge"></div>
+<div id="container">
+	
+	<!-- Site Logo -->
+	<div id="logos">
+		<div id="main">
+			<h1>IEEE Amrita</h1>
+					</div>
+		<div id="ieee"><a href="http://www.ieee.org/" target="_blank"><img src="https://edu.ieee.org/in-ase/wp-content/themes/sections/images/logo_ieeeBLK.png" width="126" height="37" alt="IEEE" title="IEEE" /></a></div>
+		<div class="clear"></div>
+		<!-- Sign in link -->
+		<div id="sign-in">
+					</div>
+	</div>
+	
+	<!-- Site Navigation -->
+	<div id="navbar">
+		<div id="navigation">
+			<!-- load widget for pages -->
+			<div class="menu-header"><ul id="menu-menu-1" class="menu"><li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-196"><a href="https://edu.ieee.org/in-ase/">Home</a></li>
+<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="https://edu.ieee.org/in-ase/officers/committee/">Committee</a></li>
+<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-927"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/">Our Groups</a>
+<ul class="sub-menu">
+	<li id="menu-item-930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-930"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/women-in-engineering-wie/">Women in Engineering (WIE)</a></li>
+	<li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/power-energy-industrial-applications-pes-ias-chapter/">Power Energy &amp; Industrial Applications (PES &amp; IAS) Chapter</a></li>
+	<li id="menu-item-929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/robotics-and-automation-society-ras-chapter/">Robotics and Automation Society (RAS) Chapter</a></li>
+	<li id="menu-item-945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/power-electronics-society-pels-chapter/">Power Electronics Society (PELS) Chapter</a></li>
+	<li id="menu-item-944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-944"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/communication-society-comsoc-chapter/">Communication Society (ComSoc) Chapter</a></li>
+	<li id="menu-item-1919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1919"><a href="https://edu.ieee.org/in-ase/student-branch-chapters-affinity-group/i-square/">Innovation Club</a></li>
+</ul>
+</li>
+<li id="menu-item-966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-966"><a href="https://edu.ieee.org/in-ase/events/up-coming-events/">Upcoming Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a href="https://edu.ieee.org/in-ase/events/up-coming-events/iot-ai/">IOT &#038; AI</a></li>
+</ul>
+</li>
+<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-198"><a href="https://edu.ieee.org/in-ase/news/">News</a></li>
+<li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-621"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/">Past Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-1770" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1770"><a href="https://edu.ieee.org/in-ase/wie/socio-net-bee-ieee-wie/">Socio Net Bee &#8211; IEEE WIE</a></li>
+	<li id="menu-item-1366" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-1366"><a href="https://edu.ieee.org/in-ase/events/ieee-week-2017/">IEEE Week 2017</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1759" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1759"><a href="https://edu.ieee.org/in-ase/events/up-coming-events/distributed-clean-energy-infrastructure/">Distributed Clean Energy Infrastructure</a></li>
+		<li id="menu-item-1367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1367"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/self-driving-cars-ieee-week-2017/">Self-Driving Cars &#8211; IEEE Week 2017</a></li>
+		<li id="menu-item-1354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1354"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/energizer-ieee-week-2017/">Energizer &#8211; IEEE Week 2017</a></li>
+		<li id="menu-item-1351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/detection-of-brain-tumour-ieee-week-2017/">Detection of Brain Tumour &#8211; IEEE Week 2017</a></li>
+		<li id="menu-item-1348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1348"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/electronics-project-expo-ieee-week/">Electronics Project Expo &#8211; IEEE Week 2017</a></li>
+		<li id="menu-item-1350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1350"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/story-behind-the-pictures/">Story behind the Pictures &#8211; IEEE Week 2017</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/software-defined-connectivity-and-analytics-nokia/">Software Defined Connectivity and Analytics &#8211; Nokia</a></li>
+	<li id="menu-item-1347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1347"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/energy-week/">Energy Week</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/recent-events-2/">5G IOT Workshop</a></li>
+	<li id="menu-item-1048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1048"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/ieee-research-methodology-workshop/">IEEE Research Methodology Workshop</a></li>
+	<li id="menu-item-1349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1349"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/final-destination-aarohan-2017/">Final Destination &#8211; Aarohan 2017</a></li>
+	<li id="menu-item-1353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1353"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/teachers-day/">Teacher&#8217;s Day</a></li>
+	<li id="menu-item-1352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1352"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/wireless-power-transmission/">Wireless Power Transmission</a></li>
+	<li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/aarohan-2k16/">Aarohan 2K16</a></li>
+	<li id="menu-item-1853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1853"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/prabidhi-finale-the-stupid-theory/">Prabidhi Finale &#8211; The Stupid Theory</a></li>
+	<li id="menu-item-1396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1396"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/big-data-analytics-one-day-workshop-at-sjce-mysore/">Big Data Analytics One day Workshop at SJCE Mysore</a></li>
+	<li id="menu-item-1805" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1805"><a href="https://edu.ieee.org/in-ase/comsoc/socamma-ieee-communication-society/">National Workshop on SoCAMMA- Supported by IEEE Communication Society</a></li>
+	<li id="menu-item-1859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1859"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/vehicular-communication-and-intelligent-transport-systems/">Vehicular Communication and Intelligent Transport Systems</a></li>
+	<li id="menu-item-1944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1944"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/hybrid-cars/">Hybrid cars</a></li>
+	<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1945"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/applications-of-power-electronics-in-renewables/">APPLICATIONS OF POWER ELECTRONICS IN RENEWABLES</a></li>
+	<li id="menu-item-1946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1946"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/indian-power-scenario-and-real-time-operation-of-india-grid/">Indian Power Scenario and Real Time operation of India Grid</a></li>
+	<li id="menu-item-1947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1947"><a href="https://edu.ieee.org/in-ase/events/recent-events-2/electrical-entrepreneurship/">ELECTRICAL ENTREPRENEURSHIP</a></li>
+</ul>
+</li>
+<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://edu.ieee.org/in-ase/photo/">Photo Gallery</a></li>
+<li id="menu-item-943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-943"><a href="https://edu.ieee.org/in-ase/contact-us-2/">Contact Us</a></li>
+</ul></div>		</div>
+	</div>
+	
+	<div class="clear"></div>
+
+	<!-- Search Bar -->
+	<div id="search">
+		<form method="get" id="searchform" action="https://edu.ieee.org/in-ase" >
+		<div id="search-content">Search IEEE Amrita</div>
+		<div class="left"><input type="text" name="s" size="25" id="searchbox" /></div>
+		<div class="left"><a href="#" id="searchbutton"></a></div>
+		</form>		
+		
+		<!-- Social Media Icons -->		
+		<div id="socialmedia">
+			Follow:
+							<a href="http://www.facebook.com/share.php?u=https://edu.ieee.org/in-ase/events/deep-learning-applications-design-development-and-deployment-in-iot-edge/" target="_blank"><img src="https://edu.ieee.org/in-ase/wp-content/themes/sections/images/icon_facebook.gif" width="23" height="23" alt="Facebook" title="Facebook" class="socialicon" /></a>
+										<a href="http://twitter.com/home?status=I+found+this+very+interesting+https://edu.ieee.org/in-ase/events/deep-learning-applications-design-development-and-deployment-in-iot-edge/" target="_blank"><img src="https://edu.ieee.org/in-ase/wp-content/themes/sections/images/icon_twitter.gif" width="23" height="23" alt="Twitter" title="Twitter" class="socialicon" /></a>
+										<a href="#" target="_blank"><img src="https://edu.ieee.org/in-ase/wp-content/themes/sections/images/icon_youtube.gif" width="23" height="23" alt="YouTube" title="YouTube" class="socialicon" /></a>
+										<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://edu.ieee.org/in-ase/events/deep-learning-applications-design-development-and-deployment-in-iot-edge/" target="_blank"><img src="https://edu.ieee.org/in-ase/wp-content/themes/sections/images/icon_linkedin.gif" width="23" height="23" alt="LinkedIn" title="LinkedIn" class="socialicon" /></a>
+						| Share: <a href="http://addthis.com/bookmark.php?v=250&amp;username=d2creative" class="addthis_button_compact"><img src="https://edu.ieee.org/in-ase/wp-content/themes/sections/images/icon_share.gif" width="23" height="23" alt="ShareThis" title="ShareThis" class="socialicon" /></a>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=d2creative"></script> 
+		</div>
+	</div>
+	
+	<!-- Sub Page Container -->
+	
+	<!-- Sub Page Container -->
+	<div id="sub-container">	
+<!-- Left Navigation Menu -->
+<div id="leftnav">
+	<!-- This dynamically put the parent menu in the title and the child menus underneath -->
+	
+	<div class="clear"></div>
+		
+	<!-- Promo area -->
+	<div id="promos"><ul class="xoxo">
+		<!-- load widget for promos -->
+		<li id="search-4" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://edu.ieee.org/in-ase/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li>
+
+		<li id="recent-posts-2" class="widget widget_recent_entries">
+		<h4>Recent Posts</h4>
+		<ul>
+											<li>
+					<a href="https://edu.ieee.org/in-ase/events/deep-learning-applications-design-development-and-deployment-in-iot-edge/">Deep learning: Applications design , development and deployment in Iot edge</a>
+									</li>
+											<li>
+					<a href="https://edu.ieee.org/in-ase/events/5g-and-future-networks-summit/">5G and Future Networks Summit</a>
+									</li>
+											<li>
+					<a href="https://edu.ieee.org/in-ase/events/python-workshop-2k19/">Python Workshop 2K19</a>
+									</li>
+											<li>
+					<a href="https://edu.ieee.org/in-ase/events/a-talk-on-embedded-systems-and-internet-of-things/">A talk on Embedded systems and Internet Of Things</a>
+									</li>
+											<li>
+					<a href="https://edu.ieee.org/in-ase/events/preliminary-competition-of-ieee-yesist12/">Preliminary Competition of IEEE YESIST12</a>
+									</li>
+					</ul>
+
+		</li>
+<li id="recent-comments-2" class="widget widget_recent_comments"><h4>Recent Comments</h4><ul id="recentcomments"></ul></li>
+<li id="archives-2" class="widget widget_archive"><h4>Archives</h4>
+			<ul>
+					<li><a href='https://edu.ieee.org/in-ase/2020/02/'>February 2020</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2019/10/'>October 2019</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2019/07/'>July 2019</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2019/01/'>January 2019</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2018/10/'>October 2018</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2018/02/'>February 2018</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2018/01/'>January 2018</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2017/12/'>December 2017</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2017/10/'>October 2017</a></li>
+	<li><a href='https://edu.ieee.org/in-ase/2017/09/'>September 2017</a></li>
+			</ul>
+
+			</li>
+<li id="categories-2" class="widget widget_categories"><h4>Categories</h4>
+			<ul>
+					<li class="cat-item cat-item-61"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/comsoc/">ComSoc</a>
+</li>
+	<li class="cat-item cat-item-121"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-16074"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/ras/">RAS</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/wie/">WIE</a>
+</li>
+			</ul>
+
+			</li>
+<li id="meta-2" class="widget widget_meta"><h4>Meta</h4>
+		<ul>
+						<li><a rel="nofollow" href="https://edu.ieee.org/in-ase/wp-login.php">Log in</a></li>
+			<li><a href="https://edu.ieee.org/in-ase/feed/">Entries feed</a></li>
+			<li><a href="https://edu.ieee.org/in-ase/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://en-gb.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</li>
+<li id="categories-3" class="widget widget_categories"><h4>Categories</h4>
+			<ul>
+					<li class="cat-item cat-item-61"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/comsoc/">ComSoc</a>
+</li>
+	<li class="cat-item cat-item-121"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/">Events</a>
+</li>
+	<li class="cat-item cat-item-16074"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/ras/">RAS</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/wie/">WIE</a>
+</li>
+			</ul>
+
+			</li>
+	</ul></div>
+	
+	<div class="clear"></div>
+	<ul class="widgets">
+		</ul>
+</div>
+
+
+	<!-- Page Content Area -->	
+	<div id="content">
+	
+		<div id="breadcrumb"></div>
+
+		
+			<div class="post-2288 post type-post status-publish format-standard hentry category-events" id="post-2288">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/deep-learning-applications-design-development-and-deployment-in-iot-edge/" rel="bookmark" title="Permanent Link to Deep learning: Applications design , development and deployment in Iot edge">Deep learning: Applications design , development and deployment in Iot edge</a></h1></div>
+				<div class="inside-content">
+				<small>February 25th, 2020 <!-- by daraekanth3 --></small>
+				
+				<div class="entry">
+					<p><span><div id="metaslider-id-2296" style="width: 100%;" class="ml-slider-3-18-0 metaslider metaslider-flex metaslider-2296 ml-slider">
+    <div id="metaslider_container_2296">
+        <div id="metaslider_2296" class="flexslider">
+            <ul aria-live="polite" class="slides">
+                <li style="display: block; width: 100%;" class="slide-2297 ms-image"><img src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2020/02/Picture2-888x509.png" height="660" width="1151" alt="" class="slider-2296 slide-2297" title="Picture2" /></li>
+                <li style="display: none; width: 100%;" class="slide-2298 ms-image"><img src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2020/02/Picture1-888x509.png" height="660" width="1151" alt="" class="slider-2296 slide-2298" title="Picture1" /></li>
+                <li style="display: none; width: 100%;" class="slide-2299 ms-image"><img src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2020/02/Picture3-972x557.png" height="660" width="1151" alt="" class="slider-2296 slide-2299" title="Picture3" /></li>
+            </ul>
+        </div>
+        
+    </div>
+</div></span></p>
+<p>Speaker: Dr.Jayakumar</p>
+<p>Date and time : February 05,2020 2:30-4:30pm</p>
+<p>Venue: e-learning hall, Amrita school of engineering- Bangalore</p>
+<p>Organisers : IEEE student branch , Amrita school of engineering -Bangalore</p>
+<p>On February 05, students at Amrita school of engineering Bangalore witnessed esteemed speaker Dr. Jayakumar interact with, and inspire the audience, which constituted of both B.Tech undergraduate students as well as graduate students. The Event saw enthusiastic participation by the curious student community at amrita school of engineering Bangalore.</p>
+<p>The active participation of Ms. Uma, mentor-IEEE SENSORS council, ASEB and Dr. Navin kumar, mentor -IEEE Student Branch Amrita along with the office bearers were the key to the event’s smooth conduct. Ms. Uma and Dr. Navin kumar were key people in providing support and to encourage students to actively participate. Vice-chair (IEEE student branch), Prajwal k.s opened by introducing Dr. Jayakumar to the audience as a person of prominence .</p>
+<p>Dr. Jayakumar , is an experienced CTO and has over 29 years of experience in signal processing industry and has worked in various fields, ideating , prototyping and triggering solutions of quality to challenges in the field of electronics and communication engineering and is currently working on innovating mathematics for neural network and associated computations.</p>
+<p>Dr. Jayakumar captured the students attention by interrelating math, neural networks and the vastness of deep learning and defining bridges/ relations between various related fields. He spoke of the emergence of deep learning and accredited its founding to prominent figures like Geoffrey hinton ,alex krizhevsky and Ilya sutskever.Interesting examples and inferences were made, pertaining Boltzmann machine , how training networks may result in meaningful work , using artificial intelligence to program complicated machines and how math is crucial and is interlinked to the subject at discussion .Applications of deep learning such as image and object classification , semantic segmentation and so on, were mentioned in chronological order of emergence of the technology . Dr. Jayakumar also attempted to inspire students and mentioned of unexplored, future implications of the technology and how it is presently being used in the industry (such as inter-processor computing – which as he states are his current interests).</p>
+<p>The event ended with a gesture to thank Dr. Jayakumar and positive feedback from the audience. Inspired students were then seen interacting with Dr. Jayakumar for guidance and also mentorship, which was actively encouraged by Dr. Navin kumar.</p>
+<p>Report by Shashank BJ , joint secretary IEEE sensors council , Amrita Bangalore.</p>
+<p>&nbsp;</p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/deep-learning-applications-design-development-and-deployment-in-iot-edge/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2140 post type-post status-publish format-standard hentry category-comsoc category-events" id="post-2140">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/5g-and-future-networks-summit/" rel="bookmark" title="Permanent Link to 5G and Future Networks Summit">5G and Future Networks Summit</a></h1></div>
+				<div class="inside-content">
+				<small>October 13th, 2019 <!-- by daraekanth3 --></small>
+				
+				<div class="entry">
+					<p>Date:17.8.2019</p>
+<p>Timings:(9:30-5:30)PM</p>
+<p>Venue:Nokia Networks, Manyata Embassy Business Park, Outer Ring Road, Nagawara Main Road, Bangalore</p>
+<p>The members from IEEE student branch Amrita School of Engineering,Bangalore attended as well as volunteered for “<strong>IEEE Future Networks-5G and beyond workshop”. </strong>The event commenced with the introduction by Nokia and Communications society ,Bangalore.The keynote talk was delivered by Prof.Neelesh Mehta ,IISC wherein he covered topics such as rate adaptation and scheduling,the feedback schemes in 4G and 5G ,base station side estimation and so on.Further there were speakers from the industry who spoke about the spectrum need and availability,the 5G connectivity node for smart cities,Massive MIMO for 5G,the use cases of 5G,automation using artificial intelligence and machine learning,network slicing,security in software defined networking,network virtualization and the era of wireless communication beyond 2050.The workshop concluded with vote of thanks by Nokia and Comsoc.</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/IEEE-Comsoc-image.png"><img loading="lazy" class="alignnone size-medium wp-image-2142" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/IEEE-Comsoc-image-300x168.png" alt="" width="300" height="168" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/IEEE-SB-image.png"><img loading="lazy" class="alignnone size-medium wp-image-2143" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/IEEE-SB-image.png" alt="" width="290" height="295" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/comsoc/" rel="category tag">ComSoc</a>, <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/5g-and-future-networks-summit/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2134 post type-post status-publish format-standard hentry category-events" id="post-2134">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/python-workshop-2k19/" rel="bookmark" title="Permanent Link to Python Workshop 2K19">Python Workshop 2K19</a></h1></div>
+				<div class="inside-content">
+				<small>October 13th, 2019 <!-- by daraekanth3 --></small>
+				
+				<div class="entry">
+					<p>Date:28.08.2019</p>
+<p>Timings: 9:15AM-2:30PM</p>
+<p>Venue: Krishna Hall</p>
+<p>Speaker: Mr.Prashanth.</p>
+<p>&nbsp;</p>
+<p>The event began with the introduction of</p>
+<p>the speaker by Anusha.S of IEEE student chapter, Amrita School of Engineering, Bangalore.The Event started off with the introduction of Machine learning and its revolution and evolution in the 21<sup>st</sup> century. The workshop mainly focused on encouraging the beginners to learn the Python and use of the python in different fields.</p>
+<p>As the workshop is mainly focused on the beginners, it includes the basic topics of the python. The workshop is happened more interactively. After every topic a sample questions are given to solve by the attendees. So many doubts were raised and session goes on by solving the doubts. Finally the attendees got interested in learning the python and some platforms are recommended by the speaker to continue there learning.</p>
+<p>&nbsp;</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-3.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2135" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-3-300x199.jpg" alt="" width="300" height="199" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-3-300x199.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-3-768x510.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-3-1024x680.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-3.jpg 1432w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-1.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2136" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-1-300x199.jpg" alt="" width="300" height="199" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-1-300x199.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-1-768x510.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-1-1024x680.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-1.jpg 1424w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-2.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2137" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-2-300x199.jpg" alt="" width="300" height="199" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-2-300x199.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-2-768x510.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-2-1024x680.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-2.jpg 1429w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-4.jpg"><img loading="lazy" class="size-medium wp-image-2138 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-4-300x199.jpg" alt="" width="300" height="199" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-4-300x199.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-4-768x510.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-4-1024x680.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/py-2k19-4.jpg 1429w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/python-workshop-2k19/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2130 post type-post status-publish format-standard hentry category-events" id="post-2130">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/a-talk-on-embedded-systems-and-internet-of-things/" rel="bookmark" title="Permanent Link to A talk on Embedded systems and Internet Of Things">A talk on Embedded systems and Internet Of Things</a></h1></div>
+				<div class="inside-content">
+				<small>October 13th, 2019 <!-- by daraekanth3 --></small>
+				
+				<div class="entry">
+					<p>Date:19.8.2019</p>
+<p>Timings:(3:30-4:30)PM</p>
+<p>Venue:Krishna Hall</p>
+<p>Speaker : Mr.Avirup Basu</p>
+<p>Intel Software Innovator</p>
+<p>Over 7+ years experience in IoT &amp; Embedded</p>
+<p>The event began with the introduction of the speaker by Anusha.S of IEEE student chapter, Amrita School Of Engineering ,Bangalore.The speaker started off with the basics of IoT technology,how this is going to make a change in lives of the people and also the world.Then the components used in IoT,the different cloud platforms such as “Amazon web Services” , “Microsoft AZURE” and “Google cloud” were discussed .The audience later got insights into the communication protocols commonly used for the connectivity of the physical devices and the different types of development boards available for prototyping such as :Raspberry Pi,Node MCU and web server such as ESP8266.He discussed about smart lighting system as an example to illustrate how the processes happens. The audience were told to do a project on “Home Automation” .This talk ended with the felicitation of Mr.Avirup Basu by Dr.Navin Kumar,the branch counsellor of IEEE student branch-ASE,Bangalore.<a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/Bsau-Sir-image.jpg"><img loading="lazy" class="wp-image-2131 size-medium aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/Bsau-Sir-image-e1570964355173-195x300.jpg" alt="" width="195" height="300" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/Bsau-Sir-image-e1570964355173-195x300.jpg 195w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/Bsau-Sir-image-e1570964355173-768x1181.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/Bsau-Sir-image-e1570964355173-666x1024.jpg 666w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/Bsau-Sir-image-e1570964355173.jpg 796w" sizes="(max-width: 195px) 100vw, 195px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/talk-on-iot.jpg"><img loading="lazy" class="size-medium wp-image-2132 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/talk-on-iot-300x169.jpg" alt="" width="300" height="169" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/talk-on-iot-300x169.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/talk-on-iot-768x432.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/talk-on-iot-1024x576.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/10/talk-on-iot.jpg 1469w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/a-talk-on-embedded-systems-and-internet-of-things/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2111 post type-post status-publish format-standard hentry category-events" id="post-2111">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/preliminary-competition-of-ieee-yesist12/" rel="bookmark" title="Permanent Link to Preliminary Competition of IEEE YESIST12">Preliminary Competition of IEEE YESIST12</a></h1></div>
+				<div class="inside-content">
+				<small>July 31st, 2019 <!-- by daraekanth3 --></small>
+				
+				<div class="entry">
+					<p><strong>Date</strong>:28.6.2019(Friday)</p>
+<p><strong>Time</strong>: (10:30-12:30)PM</p>
+<p><strong>   </strong><strong>Brief Introduction of the Event</strong></p>
+<p><strong>IEEE YESIST 12</strong></p>
+<p><em>Age of Innovation</em></p>
+<p>IEEE YESIST 12 (YOUTH ENDEAVOURS FOR SOCIAL INNOVATION USING SUSTAINABLE TECHNOLOGY) (formerly SS12) is an international talent show for the students and young professionals to showcase their innovative ideas to solve humanitarian and social issues affecting directly the community around them.</p>
+<p>The proceedings of the preliminary competition was done by Prajwal K.S. a third year B.TECH student of ASE.The panel comprised of Mrs.Sreebha Bhaskaran ,Mrs.Nalini Sampathkumar and Mrs.Pournamy S from Amrita School Of Engineering,Bangalore.</p>
+<p><strong> </strong></p>
+<p><strong>Participated Teams:</strong></p>
+<p>1.Electrical Engineers</p>
+<p>2.Techie Bees</p>
+<p>3.Make India Pride</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/poster.jpeg"><img loading="lazy" class=" wp-image-2116 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/poster-212x300.jpeg" alt="" width="279" height="395" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/poster-212x300.jpeg 212w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/poster-768x1086.jpeg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/poster-724x1024.jpeg 724w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/poster.jpeg 794w" sizes="(max-width: 279px) 100vw, 279px" /></a></p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-3.jpg">   <img loading="lazy" class="size-medium wp-image-2113 alignleft" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-3-300x225.jpg" alt="" width="300" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-3-300x225.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-3-768x576.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-3-1024x768.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-3.jpg 1152w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp.jpg"><img loading="lazy" class="wp-image-2114 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-300x169.jpg" alt="" width="399" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-300x169.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-768x432.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-1024x576.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp.jpg 1377w" sizes="(max-width: 399px) 100vw, 399px" /></a></p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/prajwal-anna.jpg"><img loading="lazy" class="wp-image-2115 alignnone" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/prajwal-anna-225x300.jpg" alt="" width="235" height="314" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/prajwal-anna-225x300.jpg 225w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/prajwal-anna-768x1024.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/prajwal-anna.jpg 864w" sizes="(max-width: 235px) 100vw, 235px" /></a><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-2.jpg"><img loading="lazy" class="wp-image-2112 alignleft" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-2-300x169.jpg" alt="" width="437" height="246" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-2-300x169.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-2-768x432.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-2-1024x576.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/grp-2.jpg 1377w" sizes="(max-width: 437px) 100vw, 437px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/preliminary-competition-of-ieee-yesist12/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2100 post type-post status-publish format-standard hentry category-events" id="post-2100">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/ieee-coneccct-2019/" rel="bookmark" title="Permanent Link to IEEE CONECCT 2019">IEEE CONECCT 2019</a></h1></div>
+				<div class="inside-content">
+				<small>July 28th, 2019 <!-- by daraekanth3 --></small>
+				
+				<div class="entry">
+					<p><strong>                                                                   <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-1.jpg"><img loading="lazy" class="alignnone wp-image-2103" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-1-300x169.jpg" alt="" width="442" height="249" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-1-300x169.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-1-768x432.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-1-1024x576.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-1.jpg 1600w" sizes="(max-width: 442px) 100vw, 442px" /></a></strong></p>
+<p><strong>IEEE CONECCT ,2019</strong>International Conference on <strong>Electronics, Computing and Communication Technologies (IEEE CONECCT)</strong> organized by IEEE Bangalore Section was held at IIIT, Bangalore, India during 26-27 July, 2019.8 students from IEEE student branch ,ASE attended the conference on 27th July . The conference featured many plenary talks and invited papers by distinguished researchers and technologists as well as contributed papers from academics and industry professionals. The students were very inspired and benefitted from the wide range of sessions at a large scale in different domains of technologies such as <strong>machine learning, big data,5G,IoT</strong> and participated actively in the panel discussion.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-3.jpg"><img loading="lazy" class="wp-image-2105 alignleft" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-3-300x246.jpg" alt="" width="354" height="290" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-3-300x246.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-3-768x630.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-3-1024x840.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-3.jpg 1380w" sizes="(max-width: 354px) 100vw, 354px" /></a><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-2.jpg"><img loading="lazy" class="wp-image-2104 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-2-300x169.jpg" alt="" width="446" height="251" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-2-300x169.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-2-768x432.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-2-1024x576.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/07/conecct-2k19-2.jpg 1280w" sizes="(max-width: 446px) 100vw, 446px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/ieee-coneccct-2019/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2034 post type-post status-publish format-standard hentry category-events" id="post-2034">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/events/ieee-bangalore-section-annual-general-meeting-agm-2019/" rel="bookmark" title="Permanent Link to IEEE Bangalore Section Annual General Meeting (AGM) 2019">IEEE Bangalore Section Annual General Meeting (AGM) 2019</a></h1></div>
+				<div class="inside-content">
+				<small>January 13th, 2019 <!-- by  --></small>
+				
+				<div class="entry">
+					<p>&nbsp;</p>
+<p style="text-align: center"><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/AGM-2019.jpg"><img loading="lazy" class="size-medium wp-image-2047 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/AGM-2019-300x240.jpg" alt="" width="300" height="240" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/AGM-2019-300x240.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/AGM-2019-768x615.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/AGM-2019-1024x819.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/AGM-2019.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: center">The IEEE Bangalore Section Annual General Meeting was held on <em><strong>6<sup>th</sup> January 2019</strong></em> at <em><strong>Dayanand Sagar College of Engineering</strong>.</em> The event brought together all the student branch chapters across Bangalore under one roof.   The AGM was an opportunity to interact with other members, enrich our professional lives as well as promote your career interests, enhance our understanding of the Section and its activities. The various awards given by the Bangalore Section encouraged the student chapters to work more and get benefited from IEEE. Amongst many awards and competitors, Amrita School of Engineering – Bangalore backed home the <strong>Outstanding Medium Student Branch 2018</strong> award with utmost pride and joy.</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014.jpg"><img loading="lazy" class="size-medium wp-image-2040 alignleft" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014-300x225.jpg" alt="" width="300" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014-300x225.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014-768x576.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014-1024x768.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014-400x300.jpg 400w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190106-WA0014.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019.jpg"><img loading="lazy" class="size-medium wp-image-2036 alignright" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019-300x225.jpg" alt="" width="300" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019-300x225.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019-768x576.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019-1024x768.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019-400x300.jpg 400w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0019.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0031.jpg"><img loading="lazy" class="size-medium wp-image-2038 aligncenter" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0031-300x169.jpg" alt="" width="300" height="169" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0031-300x169.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0031-768x432.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0031-1024x576.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2019/01/IMG-20190112-WA0031.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/events/" rel="category tag">Events</a> |   <a href="https://edu.ieee.org/in-ase/events/ieee-bangalore-section-annual-general-meeting-agm-2019/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2019 post type-post status-publish format-standard hentry category-wie" id="post-2019">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/wie/talk-on-iot/" rel="bookmark" title="Permanent Link to Talk on IOT">Talk on IOT</a></h1></div>
+				<div class="inside-content">
+				<small>October 25th, 2018 <!-- by aravindvnair99 --></small>
+				
+				<div class="entry">
+					<p>IEEE WIE Affinity group of Amrita School of Engineering(SBA63931) Student Branch chapter, Bengaluru conducted the talk on IOT- in telecommunications, to foster the careers of students on 5-10-2016 from 3.30pm to 4.40pm in Valmiki Hall.</p>
+<p>The talk was given by Soma pande , the general manager of Reliance Infotech. She is a graduate in computer engineering, from Maulana Azad National Institute of Technology and a Masters degree in software systems from BITS Pilani. She has 20 years of experience in wireless R&amp;D, Design and Development .she has also been an expert reviewer for IEEE conferences in the Asia Pacific region. She is the inspiration to many women to grow their careers in the field of engineering.</p>
+<p>The talk commenced with a welcome address by Dr.K.Deepa, IEEE WIE ASE Advisor. Soma pande gave a descriptive idea on IOT in telecom to students, She discussed applications of IOT in India. The talk also gave a glimpse to students on the wide applications of IoT in the smartphone. Her talk also included top IT protocols, E2E lot solution high-level architecture, standards for WAN, standards for field area network, standards for vertical applications, standards for M2M service capabilities. Students got highly excited when she talked about 5G, as this is the most awaiting new technology.</p>
+<p>This is the great initiative taken by WIE to develop innovative ideas among the students. Connecting idea is where innovation comes from, and connecting with people makes those innovation come to life. This event got an overwhelming response from the students, 60 people attended the talk.<br />
+The session culminated by presenting a memento to the speaker by Dr.Naveen. This event was made successful with lot of support from Dr.K.Deepa.The vote of thanks is given by Gereshma, by thanking the speaker and WIE promising the students to bring more technical events like this.</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT1.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2020" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT1-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT1-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT1-768x511.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT1-272x182.jpg 272w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT1.jpg 862w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT2.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2021" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT2-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT2-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT2-768x512.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT2-272x182.jpg 272w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT2.jpg 953w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT3.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2022" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT3-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT3-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT3-768x512.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT3.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT3-272x182.jpg 272w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT5.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2023" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT5-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT5-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT5-768x512.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT5.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT5-272x182.jpg 272w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT6.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2024" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT6-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT6-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT6-768x511.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT6.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT6-272x182.jpg 272w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT7.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2025" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT7-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT7-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT7-768x512.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT7.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT7-272x182.jpg 272w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT8.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2026" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT8-300x200.jpg" alt="" width="300" height="200" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT8-300x200.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT8-768x511.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT8.jpg 1024w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Talk-on-IOT8-272x182.jpg 272w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/wie/" rel="category tag">WIE</a> |   <a href="https://edu.ieee.org/in-ase/wie/talk-on-iot/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2014 post type-post status-publish format-standard hentry category-wie" id="post-2014">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/wie/break-through/" rel="bookmark" title="Permanent Link to Break Through">Break Through</a></h1></div>
+				<div class="inside-content">
+				<small>October 25th, 2018 <!-- by aravindvnair99 --></small>
+				
+				<div class="entry">
+					<p>IEEE WIE (student affinity group- SBA63931), Amrita School of Engineering, Bangalore organized a technical fun event ‘Break Through’ as a part of Prabidhi on 2nd March, 2018 from 9 AM to 2.30PM in E-208, E-210, E-209 respectively at Amrita School of Engineering, Bangalore. Prabidhi is a tech day exclusively conducted for students every year by the Amrita School of Engineering.</p>
+<p>Collaboration between IEEE-PELS, IEEE-PES, IEEE WIE, IEEE COMSOC</p>
+<p>Round 1. A team of three was allowed to participate. This was basically a fun event. One of participant was asked a question based on general knowledge. Numbers from 0 to 9 were placed vertically on the wall and a puzzle reference sheet was given to the participants. The participant that was asked the question showed the answer to the other two by pointing a pointer that was connected to the rotating arm. With the help of the puzzle reference sheet the other two participants said the answer. Teams which answered the maximum question in the time period of 4mins were qualified to 2nd round.<br />
+Round 2. The teams that are qualified in the first round entered into this round. In this round a maze was placed vertically. One of the team members was placed behind the maze in a way that maze was not visible. Two magnets were placed on either side of the maze such a way that they were attached magnetically. The other teammates were supposed to guide the person on the other side to bring the magnet out of the maze. Considering the time taken by them to complete the maze were permitted to the third round.</p>
+<p>Round 3.Kill the Buzzer is the tech fun event where the participants have to off the buzzer within the given time. The teams that are qualified in second round are permitted to participate. One among the three was asked to pick a name card which consisted of some technical names. The teammates were allowed discuss on the name card for 30 seconds and the one who took the name card is asked to stand in a circle known as ‘Red Zone’ in which the other two teammates were not allowed. That other teammates are supposed to bring the clues related to that name card in 2mins. Person inside the red zone, arranged the clues with the wires collected from his other teammates to a circuit in a way that the buzzer is switched OFF.</p>
+<p>The TECHNCIAL FUN EVENT earned a good response from all the participants who in turn requested us to conduct more programs in future. The importance of IEEE membership was highlighted in the same program. A total number of 68 teams participated in the event.</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through1.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2015" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through1-300x225.jpg" alt="" width="300" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through1-300x225.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through1-400x300.jpg 400w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through1.jpg 607w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through2.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2016" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through2-300x225.jpg" alt="" width="300" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through2-300x225.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through2-400x300.jpg 400w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through2.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through3.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2017" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through3-300x225.jpg" alt="" width="300" height="225" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through3-300x225.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through3-400x300.jpg 400w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Break-Through3.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/wie/" rel="category tag">WIE</a> |   <a href="https://edu.ieee.org/in-ase/wie/break-through/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+			<div class="post-2010 post type-post status-publish format-standard hentry category-wie" id="post-2010">
+				<div class="header"><div class="arrow"></div><h1><a href="https://edu.ieee.org/in-ase/wie/supercomputers-e-science-activities-in-india/" rel="bookmark" title="Permanent Link to Supercomputers &amp; E-Science Activities In India">Supercomputers &amp; E-Science Activities In India</a></h1></div>
+				<div class="inside-content">
+				<small>October 25th, 2018 <!-- by aravindvnair99 --></small>
+				
+				<div class="entry">
+					<p>IEEE WIE (student affinity group- SBA63931), Amrita School of Engineering, Bangalore organized a talk ‘supercomputers &amp; e-science activities in India’ on 10th of February, 2018 from 1.30pm to 4.30pm in E-Learning Hall, Amrita School of Engineering, Bangalore.<br />
+The talk was arranged by Dr.K. Deepa, Advisor, IEEE WIE student affinity group, ASE-Bangalore. The speaker Ms. Divya M G is currently working as “Joint Director” at Centre for Development of Advanced Computing (C-DAC), Bangalore. She is working for “GARUDA project” and “National Supercomputing Mission project”. Earlier she was working as Scientist at Core R&amp;D, ITI Ltd Bangalore. She has over 20 years of experience in Telecommunication and Grid Computing. Her education background is B. E, M.S, and MBA. Her areas of interests are Telecommunication, High-Performance Computing (HPC), Grid &amp; Cloud Computing. She has various publications to her credit and has given presentations at national and international conferences. She is IEEE Senior member. She is EXECOM member, IEEE Bangalore section and EXECOM member WIE Bangalore section.<br />
+The schedule of the speaker was as below<br />
+1.30 pm to 3.00 pm &#8211; &#8220;Trends in Supercomputers&#8221;<br />
+3.00 pm to 3.10 pm &#8211; Break<br />
+3.10 pm to 3.40 pm &#8211; &#8220;e-Science activities in India&#8221;<br />
+3.40 to 4.30 pm &#8211; Mock interview for 6th sem WiE students</p>
+<p>The speaker Ms. Divya M G started with brief introduction of supercomputers and its importance in present technology. She gave a crisp detailed view of supercomputers in different domains. Followed by grid &amp; cloud computing, its applications. The event saw a good participation from students of B.tech. The event gathered 30 members in which 10 were IEEE members.<br />
+This session was followed by &#8220;e-Science activities in India&#8221; were the present projects undertaken in India was highlighted. The entire fields like forecasting the climatic variations, supercomputers in medical field, smart city, smart grids, etc was discussed.<br />
+After the session, all the IEEE- WIE members were given a mock interview by Ms. Divya M G, where students were given an exposure to technical interview. Guidelines and tips for attending technical interview were given to the students. The talk &amp; mock interview earned a good response from all the participants who in turn requested us to conduct more programs in future. The importance of IEEE membership was highlighted the same program.</p>
+<p><a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India1.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2011" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India1-300x199.jpg" alt="" width="300" height="199" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India1-300x199.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India1-768x510.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India1.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a> <a href="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India2.jpg"><img loading="lazy" class="alignnone size-medium wp-image-2012" src="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India2-300x199.jpg" alt="" width="300" height="199" srcset="https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India2-300x199.jpg 300w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India2-768x511.jpg 768w, https://edu.ieee.org/in-ase/wp-content/uploads/sites/394/2018/10/Supercomputers-E-Science-Activities-In-India2.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+				</div>
+
+				<p class="postmetadata"> Posted in <a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/wie/" rel="category tag">WIE</a> |   <a href="https://edu.ieee.org/in-ase/wie/supercomputers-e-science-activities-in-india/#respond">No Comments &#187;</a></p>
+			</div>
+			</div>	
+		<div class="bot"></div>	
+		<div class="clear"></div>
+		<br />
+
+		
+		<div class="navigation">
+			<div class="alignleft"><a href="https://edu.ieee.org/in-ase/Student%20Branch%20Chapter/wie/page/2/" >&laquo; Older Entries</a></div>
+			<div class="alignright"></div>
+		</div>
+		
+		
+
+		
+		
+	</div>
+	
+
+
+	<div class="clear"></div>
+	
+	<div id="footer">
+        <div id="footer-r">
+
+</div>
+
+<div id="footer-l">
+<p>
+
+	<b id="footer-sel"><a href="https://edu.ieee.org/in-ase/" target="">Home</a></b>
+
+	&#160;|&#160;
+	<a target="" href="http://www.ieee.org/sitemap.html?WT.mc_id=hpf_smap">Sitemap</a>
+		&#160;|&#160;
+		<a href="http://www.ieee.org/about/contact_center/index.html?WT.mc_id=hpf_contact" target="">Contact &amp; Support</a>
+		&#160;|&#160;
+		<a target="" href="http://www.ieee.org/site_terms_conditions.html?WT.mc_id=hpf_terms">Terms &amp; Conditions</a>
+		&#160;|&#160;
+		<a href="http://www.ieee.org/about/corporate/governance/p9-26.html?WT.mc_id=hpf_pol">Nondiscrimination Policy</a>
+		&#160;|&#160;
+		<a target="" href="http://www.ieee.org/about/feedback_ieee_site.html?FromPage=/index.html">Feedback</a>
+		&#160;|&#160;
+		<a href="http://www.ieee.org/security_privacy.html">Privacy &amp; Opting Out of Cookies</a>
+
+<br /><br />A non-profit organization, IEEE is the world's largest professional association for the advancement of technology.<br />&copy; Copyright 2020 IEEE &ndash; All rights reserved. Use of this Web site signifies your agreement to the terms and conditions.
+	</div>
+  </div>
+    <style>
+        .gsc-control-cse .gsc-table-result {
+	font-family : inherit;
+}
+
+.gsc-control-cse .gsc-input-box {
+	height : inherit;
+}
+
+input.gsc-input,
+.gsc-input-box,
+.gsc-input-box-hover,
+.gsc-input-box-focus,
+.gsc-search-button, input.gsc-search-button-v2 {
+	box-sizing  : content-box;
+	line-height : normal;
+	margin-top  : 0px;
+}
+    </style>
+    <script type="text/javascript">!function(t,e){"use strict";function n(){if(!a){a=!0;for(var t=0;t<d.length;t++)d[t].fn.call(window,d[t].ctx);d=[]}}function o(){"complete"===document.readyState&&n()}t=t||"docReady",e=e||window;var d=[],a=!1,c=!1;e[t]=function(t,e){return a?void setTimeout(function(){t(e)},1):(d.push({fn:t,ctx:e}),void("complete"===document.readyState||!document.attachEvent&&"interactive"===document.readyState?setTimeout(n,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",n,!1),window.addEventListener("load",n,!1)):(document.attachEvent("onreadystatechange",o),window.attachEvent("onload",n)),c=!0)))}}("wpBruiserDocReady",window);
+			(function(){var wpbrLoader = (function(){var g=document,b=g.createElement('script'),c=g.scripts[0];b.async=1;b.src='https://edu.ieee.org/in-ase/?gdbc-client=3.1.42-'+(new Date()).getTime();c.parentNode.insertBefore(b,c);});wpBruiserDocReady(wpbrLoader);window.onunload=function(){};window.addEventListener('pageshow',function(event){if(event.persisted){(typeof window.WPBruiserClient==='undefined')?wpbrLoader():window.WPBruiserClient.requestTokens();}},false);})();
+</script><link rel='stylesheet' id='metaslider-flex-slider-css'  href='https://edu.ieee.org/in-ase/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.18.0' type='text/css' media='all' property='stylesheet' />
+<link rel='stylesheet' id='metaslider-public-css'  href='https://edu.ieee.org/in-ase/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.18.0' type='text/css' media='all' property='stylesheet' />
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/edu.ieee.org\/in-ase\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://edu.ieee.org/in-ase/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://edu.ieee.org/in-ase/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://edu.ieee.org/in-ase/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.18.0' id='metaslider-flex-slider-js'></script>
+<script type='text/javascript' id='metaslider-flex-slider-js-after'>
+var metaslider_2296 = function($) {
+            $('#metaslider_2296').flexslider({ 
+                slideshowSpeed:4000,
+                animation:"fade",
+                controlNav:true,
+                directionNav:true,
+                pauseOnHover:false,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                fadeFirstSlide:false,
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_2296');
+        };
+        var timer_metaslider_2296 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_2296, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_2296, 1) : metaslider_2296(window.jQuery);
+        };
+        timer_metaslider_2296();
+</script>
+ 
+</body>
+</html>
